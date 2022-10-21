@@ -1,4 +1,4 @@
 # Data Lakes on ACID
 
-* [Presentation](Data%20Lakes%20on%20ACID.pdf)
-* [Notebook](Delta-Demo.ipynb)
+* 2022-09-08 - [JavaZone 2022](JavaZone2022) - Conference presentation
+* 2022-10-20 - [Bouvet Geek One](BouvetGeekOne) - Internal presentation @ Bouvet
